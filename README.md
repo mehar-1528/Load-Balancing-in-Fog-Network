@@ -1,4 +1,4 @@
-# Load-Balancing in Fog Network
+# Load Balancing in Fog Network
 # Problem Statement
 In a fog network as shown in Figure 1.1, each fog node is connected to various IoT devices which are transmitting data continuously. Our task is to design a dynamic load balancing algorithm that will calculate the overload probability of a fog node and make optimal node selection decisions using Q-learning. The requests are then offloaded to the selected nodes.
 
